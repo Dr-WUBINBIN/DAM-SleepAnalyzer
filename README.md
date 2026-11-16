@@ -8,7 +8,7 @@ You need Python 3 with Tkinter, plus NumPy and pandas. Open a terminal in the fo
 
 ```bash
 python3 -m pip install numpy pandas
-python3 DAM_Sleep_calculation.py
+python3 DAM_Sleep_GUI.py
 ```
 
 If your Python command is `python`, use it for both commands. To check whether your Python installation includes Tkinter, run `python3 -m tkinter`. A small test window should open.
